@@ -20,3 +20,5 @@ Proficient in using laboratory equipment and research tools
 Advanced
 PhD or Master's degree in a relevant scientific field
 We'd love for you to apply!
+
+❯ <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7402941369763258369" height="684" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
