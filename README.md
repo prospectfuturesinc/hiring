@@ -21,4 +21,7 @@ Advanced
 PhD or Master's degree in a relevant scientific field
 We'd love for you to apply!
 
-❯ <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7402941369763258369" height="684" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+# <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7402941369763258369" height="684" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+<img width="2056" height="1329" alt="image" src="https://github.com/user-attachments/assets/508de851-e1b5-4c05-98bc-872249b3eda5" />
+
