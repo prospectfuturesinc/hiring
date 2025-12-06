@@ -25,3 +25,5 @@ We'd love for you to apply!
 
 <img width="2056" height="1329" alt="image" src="https://github.com/user-attachments/assets/508de851-e1b5-4c05-98bc-872249b3eda5" />
 
+
+https://www.linkedin.com/posts/siddhant-singh-0217_siddhzx-overview-activity-7403059679678906368-NpVB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADSM0pkB2JXoj5Tf7KdRf9gLpzfin6xbpM0
