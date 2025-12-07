@@ -35,3 +35,8 @@ https://www.linkedin.com/posts/siddhant-singh-0217_siddhzx-overview-activity-740
 
 
 https://github.com/prospectfuturesinc/huggingface-filesystem.git
+
+## Hugging Face Profile
+https://huggingface.co/siddhantsingh
+
+Please follow?
