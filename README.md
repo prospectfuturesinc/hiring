@@ -12,6 +12,19 @@ Austin, Texas Metropolitan Area
 About Prospect Futures: Securing Financial Freedom / Decentralized
 Prospect Futures is a company that leverages decentralized finance to sponsor Research and Development across hard/deep-tech verticals. We're open to exploring and sponsoring your ideas!
 
+# hiring
+Hey! We're hiring. We'd love to learn more about your background!
+
+What we're looking for:
+**Research Scientist (Hybrid)**  
+Austin, Texas Metropolitan Area
+
+**About Prospect Futures:** Securing Financial Freedom / Decentralized
+
+Prospect Futures is a company that leverages decentralized finance to sponsor Research and Development across hard/deep-tech verticals. We're open to exploring and sponsoring your ideas!
+
+[Product Launch Slides](https://www.canva.com/design/DAG68USR2TY/h9ACRUI4Pn8X2E_VI0vMSQ/edit?utm_content=DAG68USR2TY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 Role Description
 This is a contract hybrid role for a Research Scientist... The role involves both on-site work and some work-from-home flexibility.
 
