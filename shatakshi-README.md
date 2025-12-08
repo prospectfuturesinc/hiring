@@ -1,6 +1,8 @@
 # hiring
 Hey! We're hiring. We'd love to learn more about your background!
 
+Nice! Pretty simple and easy to follow. #simple,fast,complex
+curl --proto '=https' --tlsv1.2 -sSf -L https://install.determinate.systems/nix | sh -s -- install
 
 
 
