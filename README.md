@@ -1,6 +1,8 @@
 # hiring
 Hey! We're hiring. We'd love to learn more about your background!
 
+Read our thesis! https://docs.google.com/document/d/1dJSvWN9cX6-dB_PmtLdlGXhl0nKxGdRL/edit?usp=sharing&ouid=102180002171384740136&rtpof=true&sd=true
+
 
 <img width="69" height="420" alt="github-mark-white" src="https://github.com/user-attachments/assets/4388b77b-028b-4d20-8dc3-2b10d3205ab2" />
 
